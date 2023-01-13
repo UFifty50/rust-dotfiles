@@ -9,7 +9,8 @@ apt-get install -y \
   zsh \
   vim \
   build-essential \
-  openssl
+  openssl \
+  python3 python-is-python3
   
 ## update and install 2nd level of packages
 apt-get install -y pkg-config
